@@ -19,7 +19,7 @@ tbody tr:nth-child(odd) {
 }
 
 .notes {
-  width: 6em;
+  width: 16em;
 }
 
 table {
@@ -31,4 +31,5 @@ table {
   .table-wrapper {
     overflow: visible;
   }
+
 }
